@@ -1,0 +1,405 @@
+Right click count:
+Left click count:
+Session count:
+Average Session Duration:
+User count:
+Restart count:
+Shut down count:
+Log out count:
+Log in count:
+Sign out count:
+Sign in count:
+Sleep mode count:
+Total time spent in sleep mode:
+Document count:
+Documents deleted:
+Document delete count:
+Setting changes count:
+Total time spent on computer:
+Total time spent on this account:
+Download count:
+Download size count:
+Device connection count:
+Device disconnection count:
+Error messages seen:
+Error messages seen count:
+Upload count:
+Virtual machines created:
+Virtual machines created count:
+Virtual machine shutdown count:
+Virtual machine restart count:
+Time spent using virtual machines:
+Videos played:
+Videos deleted:
+Videos deleted count:
+Videos played count:
+Average video duration:
+Total unicode characters used:
+A key presses count:
+B key presses count:
+C key presses count:
+D key presses count:
+E key presses count:
+F key presses count:
+G key presses count:
+H key presses count:
+I key presses count:
+J key presses count:
+K key presses count:
+L key presses count:
+M key presses count:
+N key presses count:
+O key presses count:
+P key presses count:
+Q key presses count:
+R key presses count:
+S key presses count:
+T key presses count:
+U key presses count:
+V key presses count:
+W key presses count:
+X key presses count:
+Y key presses count:
+Z key presses count:
+0 key presses count:
+1 key presses count:
+2 key presses count:
+3 key presses count:
+4 key presses count:
+5 key presses count:
+6 key presses count:
+7 key presses count:
+8 key presses count:
+9 key presses count:
+SHIFT key presses count:
+BACKSPACE key presses count:
+SPACE BAR key presses count:
+CAPS LOCK key presses count:
+TAB key presses count:
+VOLUME UP key presses count:
+VOLUME DOWN key presses count:
+VOLUME MUTE key presses count:
+NUMBER LOCK key presses count:
+HOME key presses count:
+END key presses count:
+FUNCTION key presses count:
+ALT key presses count:
+ENTER key presses count:
+PAGE DOWN key presses count:
+PAGE UP key presses count:
+ESCAPE key presses count:
+DELETE key presses count:
+INSERT key presses count:
+PRINT SCREEN key presses count:
+F1 key presses count:
+F2 key presses count:
+F3 key presses count:
+F4 key presses count:
+F5 key presses count:
+F6 key presses count:
+F7 key presses count:
+F8 key presses count:
+F9 key presses count:
+F10 key presses count:
+F11 key presses count:
+F12 key presses count:
+UP ARROW key presses count:
+DOWN ARROW key presses count:
+LEFT ARROW key presses count:
+RIGHT ARROW key presses count:
+. key presses count:
+, key presses count:
+< key presses count:
+> key presses count:
+= key presses count:
++ key presses count:
+/ key presses count:
+\ key presses count:
+` key presses count:
+~ key presses count:
+! key presses count:
+@ key presses count:
+# key presses count:
+$ key presses count:
+% key presses count:
+^ key presses count:
+& key presses count:
+* key presses count:
+{ key presses count:
+[ key presses count:
+} key presses count:
+] key presses count:
+- key presses count:
+_ key presses count:
+? key presses count:
+: key presses count:
+; key presses count:
+| key presses count:
+( key presses count:
+) key presses count:
+" key presses count:
+' key presses count:
+Total number of emojis used:
+Total number of unicode characters ued:
+Time spent on internet:
+Time spent offline:
+Time spent online:
+Phone call count:
+Blocked number count:
+Average phone call duration:
+Total time spent on phone calls:
+Total number of times close button has been pressed:
+Total number of times minimize button has been pressed:
+Total number of times maximize button has been pressed:
+Total number of times help button has been pressed:
+Total number of times yes button has been pressed:
+Total number of times no button has been pressed:
+Total number of times restart button has been pressed:
+Total number of times shut down button has been pressed:
+Total number of times undo button has been pressed:
+Total number of times redo button has been pressed:
+Total number of times refresh button has been pressed:
+Total number of times back arrow button has been pressed:
+Total number of times forward arrow button has been pressed:
+Total number of times search button has been pressed:
+Total number of popups blocked:
+Total number of font changes:
+Most used font:
+Least used font:
+Money spent:
+Money received:
+Tasks killed:
+Tasks killed count:
+Search history clearing count:
+Photos viewed:
+Photo viewing count:
+Pictures taken:
+Videos taken:
+Total video duration for all videos on this account:
+Total video duration for all videos on this computer:
+Total music duration for all videos on this account:
+Total music duration for all videos on this computer:
+Total count of bold characters used:
+Total count of italic characters used:
+Total count of crossthrough characters used:
+Total count of subscript characters used:
+Total count of superscript characters used:
+Total count of underline characters used:
+Total count of overline characters used:
+Total count of bold + italics characters used:
+Total count of bold + crossthrough characters used:
+Total count of bold + subscript characters used:
+Total count of bold + superscript used:
+Total count of bold + underline characters used:
+Total count of bold + overline characters used:
+Total count of italics + crossthrough characters used:
+Total count of italics + subscript characters used:
+Total count of italics + superscript characters used:
+Total count of italics + underline used:
+Total count of italics + overline characters used:
+Total count of crossthrough + subscript characters used:
+Total count of crossthrough + superscript characters used:
+Total count of crossthrough + underline characters used:
+Total count of crossthrough + overline used:
+Total count of subscript + superscript characters used:
+Total count of subscript + underline characters used:
+Total count of subscript + overline characters used:
+Total count of underline + overline used:
+File export count:
+Files exported:
+File import count:
+Files imported:
+Apps installed:
+Apps installed count:
+Apps uninstalled:
+Apps uninstalled count:
+Desktop background changes history:
+Desktop background changes count:
+Desktop layers background changes history:
+Desktop layers background changes count:
+Desktop layer1 background changes history:
+Desktop layer1 background changes count:
+Desktop layer2 background changes history:
+Desktop layer2 background changes count:
+Desktop layer3 background changes history:
+Desktop layer3 background changes count:
+Desktop layer4 background changes history:
+Desktop layer4 background changes count:
+Desktop layer5 background changes history:
+Desktop layer5 background changes count:
+Desktop layer6 background changes history:
+Desktop layer6 background changes count:
+Desktop layer7 background changes history:
+Desktop layer7 background changes count:
+Desktop layer8 background changes history:
+Desktop layer8 background changes count:
+Desktop layer9 background changes history:
+Desktop layer9 background changes count:
+Desktop layer10 background changes history:
+Desktop layer10 background changes count:
+Desktop layer11 background changes history:
+Desktop layer11 background changes count:
+Desktop layer12 background changes history:
+Desktop layer12 background changes count:
+Desktop layer13 background changes history:
+Desktop layer13 background changes count:
+Desktop layer14 background changes history:
+Desktop layer14 background changes count:
+Desktop layer15 background changes history:
+Desktop layer15 background changes count:
+Desktop playtime:
+Time played on desktop:
+Servers joined:
+Server visit count:
+Server visit time count:
+Legacy changes:
+Legacy changes count:
+Icons changed:
+Icons change count:
+Accessories used:
+Accessory usage count:
+Desktop ruler uses:
+Desktop ruler usage count:
+Calculator uses:
+Calculator usage count:
+Equations written:
+Equations solved:
+Equations unsolved:
+Equation count:
+Clock uses:
+Clock usage count:
+Calender uses:
+Calender usage count:
+Stopwatch uses:
+Stopwatch usage count:
+Notebook uses:
+Notebook usage count:
+Email uses:
+Email usage count:
+Emails written:
+Emails sent:
+Emails received:
+Emails written count:
+Emails sent count:
+Emails received count:
+Gadget uses:
+Gadget usage count:
+Desktop zoom uses:
+Desktop zoom usage count:
+Zip console uses:
+Zip console usage count:
+Audio played:
+Audio played count:
+Headphone usage:
+Headphone usage count:
+Microphone usage:
+Microphone usage count:
+Mouse usage:
+Mouse usage count:
+Mouse pointer customizations:
+Mouse pointer customization count:
+Drive eject count:
+Drive mount count:
+Drive unmount count:
+Mouse pointer distance traveled:
+Mouse pointer X distance traveled:
+Mouse pointer Y distance traveled:
+Mouse pointer Z distance traveled:
+Click count:
+Double click count:
+Triple click count:
+Quadruple click count:
+Double left click count:
+Triple left click count:
+Quadruple left click count:
+Double right click count:
+Triple right click count:
+Quadruple right click count:
+Lines traveled:
+Pages traveled:
+Lines traveled count:
+Pages traveled count:
+Word written:
+Total words written:
+Paragraphs written:
+Total paragraphs written:
+Virus scans:
+Total virus scan count:
+Time spent viewing desktop:
+Time spent viewing webpages:
+Time spent viewing websites:
+Time spent viewing HTML:
+Time spent viewing Notebook:
+Time spent viewing desktop ruler:
+Time spent viewing clock:
+Time spent viewing calendar:
+Time spent viewing sticky notes:
+Sticky notes:
+Sticky note count:
+Sticky note usage:
+Sticky note usage count:
+Time spent viewing user stats:
+Time spent viewing file highway:
+total bytes traveled file highway:
+total kilobytes traveled file highway:
+total megabytes traveled file highway:
+total gigabytes traveled file highway:
+total terabytes traveled file highway:
+total petabytes traveled file highway:
+total exabytes traveled file highway:
+total zettabytes traveled file highway:
+total frames seen:
+Total frames recorded:
+Time spent viewing weather app:
+Time spent viewing gif files:
+Time spent viewing flash files:
+Safe mode usage:
+Safe mode usage count:
+Game playtime:
+Game playtime count:
+Audio files deleted:
+Audio files deletion count:
+Updates installed:
+Updates unmounted:
+Updates mounted:
+Updates uninstalled:
+Updates installed count:
+Updates unmounted count:
+Updates mounted count:
+Updates uninstalled count:
+total keys pressed:
+key press history:
+Search history:
+File history:
+App history:
+Image history:
+Video history:
+Document history:
+Download history:
+Cache count:
+Cache deleted:
+Cache deleted count:
+files zipped:
+files zipped count:
+files unzipped:
+files unzipped count:
+files extracted:
+files extracted count:
+error messages seen:
+error messages seen count:
+error messages view count:
+error messages close count:
+startup sound change count:
+startup sound changes:
+shutdown sound change count:
+shutdown sound changes:
+login sound change count:
+login sound changes:
+logout sound change count:
+logout sound changes:
+sign in sound change count:
+sign in sound changes:
+sign out sound change count:
+sign out sound changes:
+restart sound change count:
+restart sound changes:
